@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Flash",
+        "identidadSecreta": "Bartholomew Henry 'Barry' Allen",
+        "poderes": [
+            "Inmensa velocidad",
+            "agilidad",
+            "Electrokinesis"
+        ]
+    },
+    {
+        "nombre": "Batman",
+        "identidadSecreta": "Bruce Wayne",
+        "poderes": [
+            "Super fuerza",
+            "super velocidad"
+        ]
+    },
+    {
+        "nombre": "Super Man",
+        "identidadSecreta": "Clark Joseph Kent",
+        "poderes": [
+            "Super fuerza",
+            "super velocidad",
+            "resistencia",
+            "agilidad",
+            "reflejos",
+            "durabilidad",
+            "sentidos y longevidad"
+        ]
+    }
+]
